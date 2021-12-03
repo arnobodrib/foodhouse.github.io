@@ -567,7 +567,8 @@ z-index: 2;
 .about {
     background-position: center center;
     position: relative;
-    background-image: url(/img/bg.png) ;
+    /* background-image: url(/img/bg.png) ; */
+    background-image: url('../img/resturant/bg.png');
     background-repeat: no-repeat;
     padding-top: 50px;
     overflow: hidden;
