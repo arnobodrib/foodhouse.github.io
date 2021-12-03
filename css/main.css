@@ -504,7 +504,7 @@ z-index: 2;
     top: 56px;
     left: 51px;
     border-radius: 50%;
-    background-image: url("/img/middle.png");
+    /* background-image: url("/img/middle.png"); */
     background-size: cover;
     background-position: center;
     
